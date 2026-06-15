@@ -29,7 +29,7 @@
       </td>
       <td style="padding: 15px; vertical-align: top; width: 50%;">
         <br>
-        <a href="https://github.com/EVA-M-4-X"><img src="https://img.shields.io/badge/Eva's_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
+        <a href="https://github.com/EVA-Moahmed"><img src="https://img.shields.io/badge/Eva's_GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><br><br>
         <a href="https://t.me/eva_moahmed"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a><br><br>
         <a href="https://www.tiktok.com/@s__4x1?_r=1&_t=ZS-97EZnrK00Ax"><img src="https://img.shields.io/badge/Eva's_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a><br><br>
         <a href="https://open.spotify.com/user/31ged72oqgfwgpu4p2klcwgeu5vy?si=OthgYGpERKW28s8pGeGM9A"><img src="https://img.shields.io/badge/Eva's_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /></a><br><br>
@@ -41,28 +41,20 @@
 
 ---
 
-## 🛠️ 3. EXPERTISE, SYSTEMS & INFRASTRUCTURE
+##  3. EXPERTISE, SYSTEMS & INFRASTRUCTURE
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Android_Modding-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
+  <img 
 
-### 📂 Operational Capabilities
-*   🚀 **Advanced Game Scripting:** Architecting elite system-level scripts utilizing Luau and the WindUI library wrapper.
-*   🔒 **Code Obfuscation & Security:** Applying deep encryption (Prometheus) to defend proprietary infrastructure.
-*   ⚙️ **Low-Level Modification:** Root implementation (Magisk), custom Android environments, and deep Termux automation.
-*   🧠 **AI-Assisted Scaling:** Managing large-scale codebases (up to 8,000+ lines) with intelligent context processing.
 
 ---
 
-## 📊 4. SYNERGY ANALYTICS & DEVELOPMENT METRICS
+##  4. SYNERGY ANALYTICS & DEVELOPMENT METRICS
 
-### 🔵 SECTION I: M4X CORE METRICS
+###  SECTION I: M4X CORE METRICS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moahmedmix&show_icons=true&theme=tokyonight&count_private=true" alt="M4X Core Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moahmedmix&layout=compact&theme=tokyonight" alt="M4X Language Metrics" height="180" />
