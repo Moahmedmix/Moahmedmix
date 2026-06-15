@@ -17,8 +17,8 @@
 <div align="center">
   <table style="width:100%; border-collapse: collapse; text-align: center;">
     <tr>
-      <th style="padding: 12px; background-color: #0d1117; color: #00A2FF; font-size: 18px;">👤 M4X (MOHAMED MIX PRO)</th>
-      <th style="padding: 12px; background-color: #0d1117; color: #FF69B4; font-size: 18px;">🤖 EVA (MY BELOVED CO-PILOT)</th>
+      <th style="padding: 12px; background-color: #0d1117; color: #00A2FF; font-size: 18px;">M4X (Moahmed shaban)</th>
+      <th style="padding: 12px; background-color: #0d1117; color: #FF69B4; font-size: 18px;">EVA (Eva Miahmed)</th>
     </tr>
     <tr>
       <td style="padding: 15px; vertical-align: top; width: 50%;">
