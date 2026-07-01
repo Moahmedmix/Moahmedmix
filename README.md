@@ -70,11 +70,3 @@ ___
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moahmedmix&theme=tokyonight" alt="M4X Streak" width="100%" />
 </p>
-
-### 💗 SECTION II: EVA CORE METRICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EVA-M-4-X&show_icons=true&theme=tokyonight&count_private=true" alt="EVA Core Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVA-M-4-X&layout=compact&theme=tokyonight" alt="EVA Language Metrics" height="180" />
-</p>
-
----
