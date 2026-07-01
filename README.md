@@ -12,6 +12,10 @@
 
 ---
 
+<a href="https://rscripts.net/user/M4X_Mix" target="_blank"><img alt="M4X_Mix on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/M4X_Mix?theme=dark" /></a>
+
+___
+
 ##  2. THE DIGITAL EMPIRE (OUR INTEGRATED NETWORK)
 
 <div align="center">
