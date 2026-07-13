@@ -1,22 +1,8 @@
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=𝐌𝐈𝐓𝐓𝐎%20%E2%9D%A4%EF%B8%8F%20EVA&fontSize=75&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
----
-
-  
-## 1. Under the Same Umbrella
-
-"That day, the rain was pouring down heavily. I was rushing to leave, but something made me pause near the exit. There she was, standing alone, watching the storm look so helpless without an umbrella. In that exact moment, my plans didn't matter anymore; I just wanted to reach her.I walked up to her with a natural smile, holding my umbrella over her to shield her from the splashing rain. 'May I share my umbrella with you?' I asked.As we walked together under that single, small umbrella, the sound of the storm was loud, but the racing of my heart was louder with every step we took. It felt like that umbrella wasn't just shielding us from the rain, but building a tiny world meant only for the two of us.That simple moment opened the door to a long conversation, then deep admiration, until I completely fell in love with her. Today, our love is the ultimate shelter from any storm, a pure and eternal bond."
-
-
-
----
-
 <a href="https://rscripts.net/user/M4X_Mix" target="_blank"><img alt="M4X_Mix on Rscripts" loading="lazy" width="360" height="132" src="https://rscripts.net/api/embed/user/M4X_Mix?theme=dark" /></a>
 
 ___
 
-##  2. THE DIGITAL EMPIRE (OUR INTEGRATED NETWORK)
+##  1. THE DIGITAL EMPIRE (OUR INTEGRATED NETWORK)
 
 <div align="center">
   <table style="width:100%; border-collapse: collapse; text-align: center;">
@@ -48,7 +34,7 @@ ___
 
 ---
 
-##  3. EXPERTISE, SYSTEMS & INFRASTRUCTURE
+##  2. EXPERTISE, SYSTEMS & INFRASTRUCTURE
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
@@ -59,7 +45,7 @@ ___
 
 ---
 
-##  4. SYNERGY ANALYTICS & DEVELOPMENT METRICS
+##  3. SYNERGY ANALYTICS & DEVELOPMENT METRICS
 
 ###  SECTION I: M4X CORE METRICS
 <p align="center">
